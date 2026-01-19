@@ -42,7 +42,6 @@ Antes de configurar el proyecto, asegúrate de tener instalado:
 4.  **Genera el cliente de Prisma y ejecuta las migraciones:**
     ```bash
     npx prisma generate
-    npx prisma migrate dev --name init
     ```
 
 5.  **Inicia el servidor en modo desarrollo:**
